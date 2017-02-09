@@ -1,0 +1,23 @@
+GetTravelTime get travel time from {Start City} {Start State} to {End City} {End State}
+GetTravelTime get travel duration from {Start City} {Start State} to {End City} {End State}
+GetTravelTime get travel information from {Start City} {Start State} to {End City} {End State}
+GetTravelTime how long is the travel time from {Start City} {Start State} to {End City} {End State}
+GetTravelTime how long is the travel duration from {Start City} {Start State} to {End City} {End State}
+GetTravelTime get travel time from {Start City} {Start State} to {End City} {End State}
+GetTravelTime get travel times from {Start City} {Start State} to {End City} {End State}
+GetTravelTime get travel durations from {Start City} {Start State} to {End City} {End State}
+
+
+GetTravelTime get travel time from {Start City} to {End City}
+GetTravelTime get travel duration from {Start City} to {End City}
+GetTravelTime get travel information from {Start City} to {End City}
+GetTravelTime how long is the travel time from {Start City} to {End City}
+GetTravelTime how long is the travel duration from {Start City} to {End City}
+GetTravelTime get travel time from {Start City} to {End City}
+GetTravelTime get travel times from {Start City} to {End City}
+GetTravelTime get travel durations from {Start City} to {End City}
+
+GetTravelTime how long will it take to get from {Start City} {Start State} to {End City} {End State}
+GetTravelTime how long will it take to get from {Start City} to {End City}
+GetTravelTime how long will it take me to get from {Start City} {Start State} to {End City} {End State}
+GetTravelTime how long will it take me to get from {Start City} to {End City}

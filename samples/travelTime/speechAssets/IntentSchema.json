@@ -1,0 +1,34 @@
+{
+  "intents":[
+    {
+      "intent": "GetTravelTime",
+      "slots":[
+        {
+          "name": "Start City",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "Start State",
+          "type": "AMAZON.US_STATE"
+        },
+        {
+          "name": "End City",
+          "type": "AMAZON.US_CITY"
+        },
+        {
+          "name": "End State",
+          "type": "AMAZON.US_STATE"
+        }
+      ]
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+      "intent": "AMAZON.StopIntent"
+    },
+    {
+      "intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
